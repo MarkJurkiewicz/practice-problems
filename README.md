@@ -1,3 +1,6 @@
+A set of JavaScript practice problems ranging in varying levels of difficulty.  Included are some commonly asked questions on technical interviews.
+
+
 ### Level 1
 - <a href="practice02/README.md" target="_blank">Array reverser</a>
 - <a href="practice03/README.md" target="_blank">Data Type Sorter</a>
